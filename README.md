@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c78a8,100:54a24b&height=200&section=header&text=Harshal%20Ingawale&fontSize=48&fontColor=ffffff&desc=Machine%20Learning%20%E2%80%A2%20AI%20%E2%80%A2%20Data%20Engineering&descSize=18&descAlignY=62" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c78a8,100:54a24b&height=200&section=header&text=Harshal%20Ingavale&fontSize=48&fontColor=ffffff&desc=Machine%20Learning%20%E2%80%A2%20AI%20%E2%80%A2%20Data%20Engineering&descSize=18&descAlignY=62" />
 </p>
 
 <p align="center">
