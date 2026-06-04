@@ -106,7 +106,7 @@ I build **end-to-end machine learning systems** — from data pipelines and mode
   <a href="mailto:harshalingawale48@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/harshalingawale"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" /></a>
   <!-- Add your LinkedIn: replace the # below -->
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/harshal-ingavale-3821872b7"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
 </p>
 
 <p align="center">
